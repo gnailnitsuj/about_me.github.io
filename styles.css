@@ -1,10 +1,65 @@
 html {
-    background-color: antiquewhite;
+    background-color: whitesmoke;
 }
 
 h1 {
     text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: chocolate;
+    font-family: 'Courier New', Courier, monospace;
+    color: cornflowerblue;
 }
 
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color:cornflowerblue;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color:cornflowerblue;
+}
+
+a { 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    background-color: lightskyblue
+}
+
+a:hover{
+    background-color: cornflowerblue;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.sisyphus {
+    width: 300px; height: 200px;
+    float:right
+}
+
+table {
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 20px;
+}
+
+.hermit {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px; height: 200px;
+}
+
+.lab {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px; height: 200px;
+}
